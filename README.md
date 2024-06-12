@@ -24,8 +24,11 @@ $ node index.js
 ? What is the project title?
 ```
 Answer that and all the questions to follow.
-After doing so, the README.md file will be generated and stored in the results folder of the root directory.  
+After doing so, the README.md file will be generated and stored in the result folder of the root directory.  
 
 > [!CAUTION]
 > Running the application again will overwrite the README.md file.
+
+## Demo
+[Video](https://drive.google.com/file/d/1lf-YveYkJ0iVPEbKjGyrhlsg4Jm4ylZZ/view?usp=sharing)
   
