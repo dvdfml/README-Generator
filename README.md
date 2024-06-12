@@ -27,5 +27,5 @@ Answer that and all the questions to follow.
 After doing so, the README.md file will be generated and stored in the results folder of the root directory.  
 
 > [!CAUTION]
-> Running the application will overwrite the README.md file.
+> Running the application again will overwrite the README.md file.
   
